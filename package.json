@@ -1,7 +1,7 @@
 {
   "name": "zeppelin-highcharts-spline",
   "description": "Draw spline graph using Highcharts library",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "main": "splineChart",
   "author": "",
   "license": "Apache-2.0",
@@ -10,6 +10,7 @@
     "url": "git+https://github.com/AhyoungRyu/zeppelin-highcharts-spline.git"
   },
   "author": "AhyoungRyu",
+  "icon" : "&#8967;",
   "dependencies": {
     "highcharts": "^5.0.6",
     "zeppelin-tabledata": "*",
