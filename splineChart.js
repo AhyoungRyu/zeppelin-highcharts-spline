@@ -102,7 +102,7 @@ export default class basicLineHighCharts extends Visualization {
         lineWidth: 2
       },
       tooltip: {
-        pointFormat: '<span style="color:{point.color}">\u25CF</span> {series.name}: <b>{point.y}</b>',
+        pointFormat: '<span style="color:{point.color}">\u25CF</span> {series.name}: <b>{point.x}</b>',
       },
       legend: {
         enabled: false
