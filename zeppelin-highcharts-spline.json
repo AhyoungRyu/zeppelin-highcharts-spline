@@ -20,5 +20,5 @@
   "name" : "zeppelin-highcharts-spline",
   "description": "Basic spline chart in Highcharts",
   "artifact" : "./zeppelin-examples/zeppelin-highcharts-spline",
-  "icon" : "&#8967;"
+  "icon": "<i class=\"fa fa-vine\"></i>"
 }
