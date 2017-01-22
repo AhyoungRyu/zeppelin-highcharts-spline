@@ -78,7 +78,8 @@ export default class basicLineHighCharts extends Visualization {
     
     var chartOptions = {
       chart: {
-        type: 'spline'
+        type: 'spline',
+        inverted: true
       },
       title: {
         text: ''
