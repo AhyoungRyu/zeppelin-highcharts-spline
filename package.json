@@ -10,7 +10,7 @@
     "url": "git+https://github.com/AhyoungRyu/zeppelin-highcharts-spline.git"
   },
   "author": "AhyoungRyu",
-  "icon" : "&#8967;",
+  "icon": "<i class=\"fa fa-vine\"></i>",
   "dependencies": {
     "highcharts": "^5.0.6",
     "zeppelin-tabledata": "*",
