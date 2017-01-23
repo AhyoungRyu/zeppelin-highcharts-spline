@@ -11,6 +11,7 @@
   },
   "author": "AhyoungRyu",
   "icon": "<i class=\"fa fa-vine\"></i>",
+  "type" : "VISUALIZATION",
   "dependencies": {
     "highcharts": "^5.0.6",
     "zeppelin-tabledata": "*",
