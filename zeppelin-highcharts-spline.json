@@ -19,6 +19,6 @@
   "type" : "VISUALIZATION",
   "name" : "zeppelin-highcharts-spline",
   "description": "Basic spline chart in Highcharts",
-  "artifact" : "./zeppelin-examples/zeppelin-highcharts-spline",
+  "artifact" : "zeppelin-highcharts-spline@0.1.4",
   "icon": "<i class=\"fa fa-vine\"></i>"
 }
