@@ -16,7 +16,7 @@ $ ./bin/zeppelin-daemon.sh restart
 
 **3.** Browse Zeppelin and go to Helium menu -> enable **zeppelin-highcharts-spline** package 
 
-<img src="./img/enable_helium.gif" width="500px" />
+<img src="https://github.com/AhyoungRyu/zeppelin-highcharts-spline/blob/master/img/enable_helium.gif?raw=true" width="500px" />
 
 **4. Draw graph with example code**
 
@@ -36,7 +36,7 @@ Altitude\tTemperature
 80\t-76.5""")
 ```
 
-<img src="./img/draw_graph.gif" width="500px" />
+<img src="https://github.com/AhyoungRyu/zeppelin-highcharts-spline/blob/master/img/draw_graph.gif?raw=true" width="500px" />
 
 With _ZEPPELIN-0.8.0-SNAPSHOT_
 Don't need local `ZEPPELIN_HOME/helium/` dir. Just go to Helium menu in Zeppelin, and enable it. 
