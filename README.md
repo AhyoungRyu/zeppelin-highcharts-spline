@@ -38,9 +38,9 @@ Altitude\tTemperature
 
 <img src="https://github.com/AhyoungRyu/zeppelin-highcharts-spline/blob/master/img/draw_graph.gif?raw=true" width="500px" />
 
-With _ZEPPELIN-0.8.0-SNAPSHOT_
-Don't need local `ZEPPELIN_HOME/helium/` dir. Just go to Helium menu in Zeppelin, and enable it. 
-Zeppelin will load available package from its online repository.
+After _ZEPPELIN-0.8.0-SNAPSHOT_
+don't need local `ZEPPELIN_HOME/helium/` dir. Just go to Helium menu in Zeppelin, and enable the packages you want to use. 
+Zeppelin will load available packages from its online repository and show you in Zeppelin GIU.
 
 
 ### LICENSE 
